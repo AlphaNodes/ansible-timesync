@@ -1,0 +1,2 @@
+- name: Run ntpdate
+  command: '{{ timesync_ntpdate }} -u {{ timesync_server }}'
