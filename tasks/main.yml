@@ -1,2 +1,2 @@
-- include: sync.yml
+- import_tasks: sync.yml
   tags: timesync
