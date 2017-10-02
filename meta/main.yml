@@ -13,4 +13,5 @@ galaxy_info:
       versions:
       - jessie
   galaxy_tags:
-    - ntp, time
+    - ntp
+    - time
