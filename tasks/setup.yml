@@ -1,0 +1,5 @@
+- name: Be sure timesync packages are installed
+  apt:
+    name: '{{ item }}'
+    state: present
+  with_items: '{{ timesync_packages }}'

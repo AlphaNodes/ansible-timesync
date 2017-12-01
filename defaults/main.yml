@@ -1,3 +1,5 @@
+timesync_packages:
+  - ntpdate
 
 timesync_server: 0.de.pool.ntp.org
 timesync_ntpdate: /usr/sbin/ntpdate

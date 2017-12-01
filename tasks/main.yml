@@ -1,2 +1,5 @@
-- import_tasks: sync.yml
+- import_tasks: setup.yml
   tags: timesync
+
+- import_tasks: sync.yml
+  tags: timesync, sync

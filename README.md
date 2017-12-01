@@ -4,7 +4,7 @@ Sync time with ntpdate
 
 ## Dependencies
 
-  Installed ntpdate package
+  none
 
 ## Example Playbook
 
